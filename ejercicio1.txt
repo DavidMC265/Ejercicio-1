@@ -1,0 +1,4 @@
+mkdir "Nuevo Folder" 
+dir 
+move Nuevo Folder C:\Users\walmart\Desktop
+dir 
